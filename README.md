@@ -1,13 +1,7 @@
 # Merhaba 👋
 
-> "karekod, barkod, kategoriler ve etiketler yokken insanlığın kavim bilge geçmişi vardı." — Ü.S. ✨🔭
+> "karekod, barkod, kategoriler ve etiketler yokken insanlığın kavim bilge geçmişi vardı." — Ü.S. "Bilgelik, etiketlerden önce gelir." ✨🔭 
 
 ---
 
-<p align="center">
-  <a href="https://github.com/umablognot/pisiradar">Paket Güncellik Panosu (Tahmini)</a>
-</p>
-
----
-
-<p align="center">✨🔭 "Bilgelik, etiketlerden önce gelir."</p>
+> <a href="https://github.com/umablognot/pisiradar">Paket Güncellik Panosu (Tahmini)</a>
