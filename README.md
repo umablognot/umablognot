@@ -4,4 +4,4 @@
 
 ---
 
-> <a href="https://github.com/umablognot/pisiradar">Paket Güncellik Panosu (Tahmini)</a>
+> <a href="https://github.com/pislinux/main/" title="PİSİ GNU LİNUX Main" >pisilinux/main</a>  |  <a href="https://github.com/umablognot/pisiradar" title="Pisi Linux Paket Güncellik Panosu">Paket Güncellik Panosu (Tahmini)</a>
